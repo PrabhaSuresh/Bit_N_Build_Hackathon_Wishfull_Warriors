@@ -23,19 +23,6 @@ According to the vehicle count, the system dynamically updates the signal timing
 
 ---
 
-## 📁 Project Structure
-```
-📂 Traffic-Management-System
- ├── 📂 models             # YOLO v8 model files
- ├── 📂 scripts            # Python scripts for processing
- ├── 📂 datasets           # Collected traffic video datasets
- ├── 📜 requirements.txt   # Dependencies
- ├── 📜 README.md          # Project documentation
- ├── 🚦 main.py            # Main execution script
-```
-
----
-
 ## 🛠️ Tech Stack
 - **Programming Language**: Python 🐍
 - **Machine Learning**: YOLO v8
