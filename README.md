@@ -35,7 +35,7 @@ According to the vehicle count, the system dynamically updates the signal timing
 ## 🚀 Installation & Setup
 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/yourusername/traffic-management-system.git
+git clone https://github.com/PrabhaSuresh/Bit_N_Build_Hackathon_Wishfull_Warriors.git
 cd traffic-management-system
 ```
 2️⃣ Install dependencies:
